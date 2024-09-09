@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import { Dialog, DialogPanel } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import Logo from '../../Images/Responsive_Web_Design_Logo.png'
+import Logo from '../../Images/logo.jpg'
 
 const navigation = [
   { name: "Home", href: "#", current: true },
   { name: "About", href: "#About", current: false },
-  { name: "Projects", href: "#Projects", current: false },
+  { name: "Achievements", href: "#Projects", current: false },
   { name: "Contact", href: "#Contact", current: false },
 ];
 
@@ -24,7 +24,7 @@ export default function Example() {
               src={Logo}
               alt=""
             />
-            <h2 className="text-2xl font-extrabold text-gray-900 uppercase">Aravind Busarapu</h2>
+            <h2 className="text-2xl font-extrabold text-gray-900 uppercase">Venugopal Bongoni</h2>
           </a>
         </div>
         <div className="flex lg:hidden">

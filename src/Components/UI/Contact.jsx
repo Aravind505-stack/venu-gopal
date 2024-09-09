@@ -47,17 +47,17 @@ const Contact = () => {
             <p>I'm interested in....</p>
             <ul className="flex flex-wrap gap-4 mt-4 max-w-96">
               <li className="bg-gray-200 text-gray-900 p-2 rounded">
-                Ecommerce Website
+              Investment Planning
               </li>
               <li className="bg-gray-200 text-gray-900 p-2 rounded">
-                Landing Page
+              Retirement Strategies
               </li>
-              <li className="bg-gray-200 text-gray-900 p-2 rounded">Portfolio</li>
+              <li className="bg-gray-200 text-gray-900 p-2 rounded">Tax Optimization</li>
               <li className="bg-gray-200 text-gray-900 p-2 rounded">
-                Blog Website
+              Wealth Management
               </li>
               <li className="bg-gray-200 text-gray-900 p-2 rounded">
-                Responsive Design
+              Estate Planning
               </li>
             </ul>
           </div>

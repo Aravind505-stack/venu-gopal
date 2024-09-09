@@ -1,6 +1,6 @@
 import React from "react";
 import profileImage from "../../Images/1694838247880.jpeg";
-import Experience from "../UI/Experience";
+
 import About from "../UI/About";
 import Education from "../UI/Education";
 import Skills from "../UI/Skills";
